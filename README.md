@@ -1,6 +1,3 @@
-Sure! Here's a shorter version of the `README.md` without the code:
-
-```markdown
 # React Native Server and Client App
 
 This repository contains a React Native application that acts as a server using `react-native-http-server` and handles dynamic permissions using `react-native-permissions`. Additionally, it includes a client application that communicates with the server to fetch data.
@@ -60,6 +57,3 @@ This repository contains a React Native application that acts as a server using 
 ## Conclusion
 
 This setup demonstrates how to create a React Native server app that dynamically handles permissions and a client app that communicates with the server. You can extend this example to fit your specific requirements.
-```
-
-This concise version focuses on the key steps and information required to set up and run both the server and client applications, avoiding detailed code explanations.
